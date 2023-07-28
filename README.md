@@ -5,7 +5,7 @@ This research was research carried out by D. Kobiela, D. Krefta, W. Król and P.
 
 Reasearch poster with the summary of the performed work can be seen in the [research project poster](2022-09-01_AI_TECH_poster.pdf).
 
-![research project poster](https://github.com/DariuszKobiela/arima-vs-lstm-on-nasdaq-stock-exchange-data/2022-09-01_AI_TECH_poster.png)
+![research project poster](2022-09-01_AI_TECH_poster.png)
 
 ## References
 <a id="1">[1]</a> 
