@@ -1,7 +1,6 @@
 *.csv
 *.txt
 *.parquet
-*.png
 *.pickle
 *.zip
 *.docx
